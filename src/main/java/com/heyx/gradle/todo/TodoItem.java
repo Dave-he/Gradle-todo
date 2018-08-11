@@ -1,9 +1,7 @@
 package com.heyx.gradle.todo;
 
 public class TodoItem {
-	//待办事项名称
 	private String name;
-	//已完成
 	private boolean hasDone;
 
 	public TodoItem(String name) {
